@@ -5,7 +5,7 @@ from tqdm import tqdm
 from datetime import datetime
 
 # Tiktok key
-verifyFp = "verify_kmj67wcs_9tsleZij_ZMtu_496d_9aJ1_vmKel1oWpLTW"
+verifyFp = ""
 
 # List of hashtags - basis
 hashtags = ['biden2020' , 'trump2020', 'biden', 'trump', 'election2020', '2020election', 'donaldtrump', 'joebiden', 'maga', 'trumpout', 'democrat', 'republican', 'trumpvsbiden', 'bidenvstrump', 'voteblue', 'votered']
